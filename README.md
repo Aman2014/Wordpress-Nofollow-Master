@@ -6,13 +6,6 @@ This plug-in detect external links automatically and makes them no-follow , also
  * And finally active it , thats it 
  * Enjoy
 
-
-
-
-
-
-
-
-
+Download this plugin from  [wordpress.org](https://wordpress.org/plugins/nofollow-doctor-wp/).
 
 This plugin made by [Omar Faruk](https://twitter.com/rraju007).
